@@ -1,5 +1,6 @@
-
-### Hi there, I'm Leong Si Rui 👋
+#### DNA Sequencing
+![DNA Sequencing](https://github.com/jackleong23/jackleong23/blob/main/dna.jpg)
+### Hi there, I'm Si Rui Leong 👋
 
 
 Below is my short description about myself<!DOCTYPE html>
