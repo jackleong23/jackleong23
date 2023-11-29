@@ -1,6 +1,5 @@
 #### DNA Storage and Sequencing
 ![MasterHead](https://wp.technologyreview.com/wp-content/uploads/2017/05/dna-ms_0-7.gif?fit=1456,818)
-![DNA Sequencing](https://github.com/jackleong23/jackleong23/blob/main/dna.jpg)
 
 <h1 align="center">Hi 👋, I'm Si Rui Leong</h1>
 <h3 align="center">A passionate biomedical engineering graduate student from Malaysia, currently studying in SJTU</h3>
