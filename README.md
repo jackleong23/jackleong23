@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Si Rui Leong</h1>
 <h3 align="center">A passionate biomedical engineering graduate student from Malaysia, currently studying in SJTU</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/QWc9.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/jackleong23/jackleong23/blob/main/AI%20hif.gif">
 
 - 🔭 I’m currently working on **AI for Sanger Sequencing**
 
