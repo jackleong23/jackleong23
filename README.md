@@ -1,7 +1,8 @@
+
 ### Hi there, I'm Leong Si Rui 👋
 
 
-l<!DOCTYPE html>
+Below is my short description about myself<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
