@@ -26,3 +26,6 @@
 <h3 align="left">More About me</h3>
 <p align="left"></p>
 [Portfolio] (https://jackleong23.github.io/minimalist-portfolio/)
+
+<h3 align="left">Graduate Research Topic</h3>
+[AI-based Sanger Sequencing](https://github.com/jackleong23/Graduate-Research-Topic/tree/main)
