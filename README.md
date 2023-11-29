@@ -25,4 +25,4 @@
 
 <h3 align="left">More About me</h3>
 <p align="left"></p>
-[![Portfolio] (https://jackleong23.github.io/minimalist-portfolio/)]
+[Portfolio] (https://jackleong23.github.io/minimalist-portfolio/)
