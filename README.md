@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **AI for Sanger Sequencing**
 
-- 🌱 I’m currently learning **R Language and also advanced Python coding**
+- 🌱 I’m currently learning **R Language and also Advanced Python Coding**
 
-- 💬 Ask me about **DNA storage and sequencing**
+- 💬 Ask me about **DNA Storage and Sequencing**
 
 - 📫 How to reach me **leongsirui@gmail.com**
 
