@@ -27,8 +27,8 @@
 <p align="left"></p>
 [Portfolio] (https://jackleong23.github.io/minimalist-portfolio/)
 
-<h3 align="left">Graduate Research Topic</h3>
+<h3 align="left">Graduate Research</h3>
 [AI-based Sanger Sequencing](https://github.com/jackleong23/Graduate-Research-Topic/tree/main)
 
-<h3 align="left">Undergraduate Research Topic</h3>
+<h3 align="left">Undergraduate Research</h3>
 [Biomechanical Evaluation tool for Diagnosing Thumb Carpometacarpal Osteoarthritis](https://github.com/jackleong23/Undergraduate-Research/blob/main/README.md)
