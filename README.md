@@ -29,3 +29,6 @@
 
 <h3 align="left">Graduate Research Topic</h3>
 [AI-based Sanger Sequencing](https://github.com/jackleong23/Graduate-Research-Topic/tree/main)
+
+<h3 align="left">Undergraduate Research Topic</h3>
+[Biomechanical Evaluation tool for Diagnosing Thumb Carpometacarpal Osteoarthritis](https://github.com/jackleong23/Undergraduate-Research/blob/main/README.md)
